@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Buenas tardes*
+_tengo hambre_
+
+**luego de esto**
+__ire a comer__
+
+_Hasta la **proxima** adios_
